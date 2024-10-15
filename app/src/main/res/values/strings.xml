@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fetch</string>
+    <string name="developer_najeeb_chaudhry">Developer: Najeeb Chaudhry\n
+        Phone number: (561)409–7427\nEmail: najeeb2kz@yahoo.com</string>
+    <string name="fetchImage">fetchImage</string>
+    <string name="najeebimage">najeebImage</string>
+    <string name="fetch_hiring">I\'ve designed this app for Fetch hiring</string>
+</resources>
