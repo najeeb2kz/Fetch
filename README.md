@@ -1,7 +1,7 @@
 - Project Name: Fetch
 - PackageName: com..chaudhry.najeeb.fetch
 - Author: Najeeb Chaudhry
-- Date completed: 10-14-2024 @9:00 PM
+- Date completed: 10-12-2024 Sat - 10-13-2024 Sun, 32 hours, 16 hours each day
 - Najeeb email address: najeeb2kz@yahoo.com
 
 -Description: In this project, I've created this app using following Libraries, framework and apis:
