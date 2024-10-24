@@ -1,8 +1,8 @@
--Project Name: Fetch
--PackageName: com..chaudhry.najeeb.fetch
--Author: Najeeb Chaudhry
--Date completed: 10-14-2024 @9:00 PM
--Najeeb email address: najeeb2kz@yahoo.com
+Project Name: Fetch
+PackageName: com..chaudhry.najeeb.fetch
+Author: Najeeb Chaudhry
+Date completed: 10-14-2024 @9:00 PM
+Najeeb email address: najeeb2kz@yahoo.com
 
 -Description: In this project, I've created this app using following Libraries, framework and apis:
     -Android 15, API level 35
