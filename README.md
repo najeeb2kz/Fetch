@@ -4,7 +4,7 @@
 - Date completed: 10-14-2024 @9:00 PM
 - Najeeb email address: najeeb2kz@yahoo.com
 
-- Description: In this project, I've created this app using following Libraries, framework and apis:
+-Description: In this project, I've created this app using following Libraries, framework and apis:
     -Android 15, API level 35
     -Traditional Android XML design for UI
     -MVVM architecture
